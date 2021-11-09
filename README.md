@@ -25,8 +25,8 @@ There Will Be A 50% That A Project Will Be Open Source
 But I have none rn
 
 ## **GitHubの統計 (GitHub Statistics)**
-![xzy.0 GitHub stats](https://github-readme-stats.vercel.app/api?username=xzy-0&theme=radical&show_icons=true) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=xzy-0&hide=html&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xzy-0&theme=monokai)
+![xzy.0 GitHub stats](https://github-readme-stats.vercel.app/api?username=xzy-0&theme=radical&show_icons=true) ![xzy](https://github-readme-stats.vercel.app/api/top-langs/?username=xzy-0&hide=html&layout=compact&theme=radical)
+![xzy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xzy-0&theme=monokai)
 
 ## **プログラミング言語とツール (Programming languages & tools)🖱**
 
